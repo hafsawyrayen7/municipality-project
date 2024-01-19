@@ -28,3 +28,5 @@ Key Features:
       3.Make your changes and commit them
       4.Submit a pull request for review
       5.Adhere to coding standards and documentation guidelines
+![1](https://github.com/hafsawyrayen7/municipality-project/assets/155973343/b9c8c95a-9027-4db2-aad1-7a69bb54433d)
+![2](https://github.com/hafsawyrayen7/municipality-project/assets/155973343/b233950c-5b18-4a92-95e0-672f9a8588fa)
